@@ -1,0 +1,12 @@
+body {
+  background-color: #f1c5c5;
+  text-align: center;
+}
+.btn {
+  margin-top : 50vh;
+}
+footer {
+   margin-top: 20vh;
+   font-family: "Comic Sans MS";
+   color: #4a3f35;
+}
